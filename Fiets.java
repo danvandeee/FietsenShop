@@ -1,7 +1,7 @@
 package oefeningenLeraar;
 
 public class Fiets {
-	// IETS VANUIT FELIX
+	// IETS VANUIT FELIX Tweede opmerking felix
 	String staat = "nieuw";
 	float prijs = 10.0f;
 	String soort = "stadsFiets";
