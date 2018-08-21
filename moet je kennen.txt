@@ -1,0 +1,20 @@
+String
+StringBuilder
+ArrayList
+Local date time
+Wrappers --> Boolean Integer etc
+
+Statisch -> onderdeel van de bouwtekening, cakevorm etc. 
+Niet statisch => object
+
+git init --> new repo
+git checkout -b 'name of new branch' = new branch maken in git 
+git status
+git add .  --> toevoeg
+git commit -am "naam van branch"
+
+git pull (in master) up to date? ja?->
+git checkout Branch
+git merge master up to date? ja?->
+git push up to date? ja? ->
+--> Pull request op github
