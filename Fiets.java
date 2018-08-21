@@ -13,6 +13,10 @@ public class Fiets {
 		this.soort = soort;
 		
 	}
-	
-	
+	public Fiets() {
+		
+	}
+	public float getPrice() {
+		
+	}
 }
